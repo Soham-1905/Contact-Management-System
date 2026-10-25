@@ -1,0 +1,17 @@
+$kind: http-request
+name: http://localhost:3000/contacts
+description: ""
+url: http://localhost:3000/contacts
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \  \"name\": \"Juan\",\r
+
+    \  \"email\": \"juan@ex.com\",\r
+
+    \  \"phone\": \"9876765890\"\r
+
+    }"
+order: 2000

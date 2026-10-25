@@ -1,0 +1,18 @@
+[
+  {
+    "id": "6ab68168-f0e3-47ef-aeec-ab790f820f5d",
+    "name": "Alex",
+    "email": "alex@ex.com",
+    "phone": "9876787569",
+    "createdAt": "2026-10-25T17:24:14.251Z",
+    "updatedAt": "2026-10-25T17:24:14.251Z"
+  },
+  {
+    "id": "62014eaf-b359-4378-a23b-902e1629c970",
+    "name": "Juan",
+    "email": "juan@ex",
+    "phone": "9876765890",
+    "createdAt": "2026-10-25T17:25:20.436Z",
+    "updatedAt": "2026-10-25T17:27:13.661Z"
+  }
+]
